@@ -1,2 +1,2 @@
 # Hello-World
-I'm a hobbist, leaning makes me happy. 
+I'm a hobbist, learning makes me happy. 
